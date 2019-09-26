@@ -1,0 +1,1529 @@
+Sam Houston St.	E. Washington
+Abil Chr.	Georgia State
+Texas A&M	South Carolina
+E. Illinois	Minnesota
+Presbyterian	Northern Illinois
+Missouri St.	Northwestern St.
+Bryant	Stony Brook
+Wake Forest	La.-Monroe
+Chattanooga	C. Michigan
+Howard	Akron
+Charlotte	Campbell
+Reinhardt	Mercer
+E. Kentucky	Robert Morris
+Point U	Charleston So.
+Missouri Baptist	SE Missouri St.
+Idaho State	Utah
+Valparaiso	W. Illinois
+Boise St.	Ole Miss
+Kentucky Chr.	Tenn. Tech
+Taylor	S. Illinois
+Tulane	Tulsa
+Cal-Poly	New Mexico St.
+Union College (KY)	Murray St.
+North Dakota	San Jose St.
+Rutgers	Washington St.
+Weber St.	Arizona St.
+Temple	Vanderbilt
+BYU	Connecticut
+Villanova	Syracuse
+Jacksonville St.	Michigan St.
+Bowling Green	W. Kentucky
+Colorado St.	Colorado
+Texas-San Antonio	Houston
+UNLV	Arizona
+Penn St.	UCF
+UCLA	Virginia
+Delaware	Pittsburgh
+W. Michigan	Purdue
+Wagner	Georgetown
+N. Iowa	Iowa
+Ohio St.	Navy
+Troy	UAB
+Appalachian St.	Michigan
+UT Martin	Kentucky
+N. Dakota St.	Iowa St.
+Youngstown St.	Illinois
+Indiana St.	Indiana
+Wofford	Georgia Tech
+Ga. Southern	N. Carolina St.
+Delaware St.	Monmouth
+Colgate	Ball St.
+Nicholls St.	Air Force
+So. Utah	Nevada
+Boston College	Massachusetts
+California	Northwestern
+FAU	Nebraska
+Hampton	Old Dominion
+South Dakota St.	Missouri
+Marshall	Miami (Ohio)
+James Madison	Maryland
+Rice	Notre Dame
+Duquesne	Buffalo
+West Virginia	Alabama
+UC-Davis	Stanford
+Portland St.	Oregon St.
+William & Mary	Virginia Tech
+Arkansas	Auburn
+Montana	Wyoming
+Virginia-Lynchburg	Alcorn St.
+Faith U.	Mississippi Valley St.
+S.C. State	Benedict
+Clemson	Georgia
+Elon	Duke
+VMI	Bucknell
+Coastal Carolina	The Citadel
+Liberty	North Carolina
+Morgan St.	E. Michigan
+Holy Cross	Albany
+Central Conn. St.	Towson
+Ohio	Kent St.
+Morehead St.	Richmond
+Norfolk St.	Maine
+Marist	Sacred Heart
+St. Francis	Fordham
+Samford	TCU
+Southern	UL Lafayette
+Austin Peay	Memphis
+Stetson	Warner
+Louisiana Tech	Oklahoma
+Montana St.	Arkansas St.
+Sacramento St.	Incarnate Word
+Bethune-Cook.	FIU
+W. Carolina	South Florida
+N. Arizona	San Diego St.
+Edward Waters	Tennessee St.
+Ark.-Pine Bluff	Texas State
+Savannah St.	M. Tenn. St.
+Florida A&M	Jackson St.
+Gardner-Webb	Furman
+Grand View U.	Drake
+College of Faith	Davidson
+Cent. Arkansas	Texas Tech
+New Hampshire	Toledo
+S.F. Austin	Kansas St.
+Fresno St.	USC
+Southern Miss	Mississippi St.
+Alabama St.	Sam Houston St.
+UTEP	New Mexico
+North Texas	Texas
+Grambling	Lamar
+Florida St.	Oklahoma St.
+Jacksonville	SE Louisiana
+NC Central	East Carolina
+LSU	Wisconsin
+Montana-Western	E. Washington
+South Dakota	Oregon
+Washington	Hawaii
+Alabama A&M	NC A&T
+Prairie View A&M	Texas Southern
+Utah St.	Tennessee
+SMU	Baylor
+Miami (Fla.)	Louisville
+Arizona	Texas-San Antonio
+Texas College	Texas Southern
+Pittsburgh	Boston College
+Washington St.	Nevada
+Johnson C. Smith	Charlotte
+Buffalo	Army
+FAU	Alabama
+W. Illinois	Wisconsin
+Missouri	Toledo
+Arkansas St.	Tennessee
+Oklahoma	Tulsa
+C. Michigan	Purdue
+Akron	Penn St.
+SMU	North Texas
+McNeese St.	Nebraska
+Howard	Rutgers
+W. Kentucky	Illinois
+Kansas St.	Iowa St.
+Stony Brook	Connecticut
+S.C. State	Clemson
+James Madison	Lehigh
+Clarion	St. Francis
+Merrimack	Bryant
+Navy	Temple
+Georgetown	Dayton
+Morgan St.	Holy Cross
+Alabama A&M	Tuskegee
+South Alabama	Kent St.
+UAB	Mississippi St.
+New Mexico St.	Georgia State
+E. Washington	Washington
+Sacramento St.	California
+Fresno St.	Utah
+William Penn	South Dakota
+Colorado	Massachusetts
+Tenn. Tech	Indiana St.
+Missouri St.	Oklahoma St.
+Richmond	Virginia
+USC	Stanford
+VMI	Bowling Green
+M. Tenn. St.	Minnesota
+Ball St.	Iowa
+Ohio	Kentucky
+Maryland	South Florida
+E. Kentucky	Miami (Ohio)
+Fordham	Villanova
+Northern Illinois	Northwestern
+Brevard College	W. Carolina
+Nicholls St.	Arkansas
+Duquesne	Youngstown St.
+Georgia Tech	Tulane
+Liberty	Norfolk St.
+E. Michigan	Florida
+Ole Miss	Vanderbilt
+Tennessee St.	Alabama St.
+Elizabeth City State	NC Central
+Central Washington	Montana
+Old Dominion	N. Carolina St.
+Campbell	Appalachian St.
+Albany	Central Conn. St.
+Newberry	Charleston So.
+Delaware St.	Delaware
+Savannah St.	Ga. Southern
+Bucknell	Marist
+Pikeville College	Morehead St.
+Coastal Carolina	NC A&T
+Jacksonville St.	Chattanooga
+Wagner	FIU
+William & Mary	Hampton
+Furman	Mercer
+Lafayette	Sacred Heart
+Gardner-Webb	Wake Forest
+Michigan St.	Oregon
+San Jose St.	Auburn
+Concordia	Ark.-Pine Bluff
+Butler	Wittenberg
+Bluefield State	Presbyterian
+Cal-Poly	South Dakota St.
+N. Arizona	Abil Chr.
+Florida Tech	Stetson
+Robert Morris	North Dakota
+UT Martin	Cent. Arkansas
+Florida A&M	Miami (Fla.)
+Duke	Troy
+Central Methodist	Southern
+Incarnate Word	S.F. Austin
+Virginia-Lynchburg	Jackson St.
+S. Illinois	E. Illinois
+Truman State	Drake
+Catawba	Davidson
+Louisiana Tech	UL Lafayette
+Alcorn St.	Southern Miss
+East Carolina	South Carolina
+Arizona St.	New Mexico
+Idaho	La.-Monroe
+Rhode Island	Marshall
+Murray St.	Louisville
+SE Missouri St.	Kansas
+Northwestern St.	Baylor
+The Citadel	Florida St.
+Mississippi Valley St.	Illinois St.
+Sam Houston St.	LSU
+Michigan	Notre Dame
+BYU	Texas
+Lamar	Texas A&M
+Towson	West Virginia
+Grambling	Houston
+N. Dakota St.	Weber St.
+St. Joseph's (IN)	Valparaiso
+San Diego St.	North Carolina
+Idaho State	Utah St.
+McMurry University	Houston Baptist
+Virginia Tech	Ohio St.
+So. Utah	SE Louisiana
+Fort Lewis	UC-Davis
+Western New Mexico	San Diego
+Black Hills State	Montana St.
+Memphis	UCLA
+N. Colorado	UNLV
+Colorado St.	Boise St.
+Western Oregon	Portland St.
+Air Force	Wyoming
+Oregon St.	Hawaii
+Texas Tech	UTEP
+Campbell	Charleston So.
+Stillman College	Samford
+Cumberland (TN)	UT Martin
+Louisiana Tech	North Texas
+Houston	BYU
+Toledo	Cincinnati
+Baylor	Buffalo
+Syracuse	C. Michigan
+Kent St.	Ohio St.
+Pittsburgh	FIU
+West Virginia	Maryland
+Ohio	Marshall
+Dayton	Duquesne
+East Carolina	Virginia Tech
+Boise St.	Connecticut
+Massachusetts	Vanderbilt
+Indiana	Bowling Green
+Ga. Southern	Georgia Tech
+UCF	Missouri
+Louisville	Virginia
+Maine	Bryant
+San Diego	Jacksonville
+Bowie State	Morgan St.
+Wagner	Monmouth
+E. Illinois	Illinois St.
+Rhode Island	Fordham
+Central Conn. St.	Holy Cross
+Davidson	VMI
+Towson	Delaware St.
+Air Force	Georgia State
+Wyoming	Oregon
+Louisiana College	Alcorn St.
+Indiana St.	Ball St.
+UC-Davis	Colorado St.
+Houston Baptist	N. Colorado
+Incarnate Word	N. Dakota St.
+N. Carolina St.	South Florida
+Arkansas St.	Miami (Fla.)
+Catawba	W. Carolina
+Lehigh	New Hampshire
+Arkansas	Texas Tech
+Georgia	South Carolina
+Miami (Ohio)	Michigan
+Iowa St.	Iowa
+Kansas	Duke
+Alabama A&M	UAB
+Morehouse	Howard
+Texas Southern	Central State (Ohio)
+UL Lafayette	Ole Miss
+Minnesota	TCU
+Illinois	Washington
+Grambling	Bethune-Cook.
+St. Francis	James Madison
+Drake	W. Illinois
+Butler	Youngstown St.
+Mississippi St.	South Alabama
+Chadron State	Idaho State
+Charlotte	NC Central
+Army	Stanford
+W. Michigan	Idaho
+Chattanooga	Austin Peay
+Cent. Arkansas	Montana St.
+Mercer	Stetson
+Morehead St.	E. Kentucky
+Robert Morris	Lafayette
+Georgetown	Marist
+Hampton	Richmond
+Virginia-Lynchburg	Gardner-Webb
+NC A&T	Elon
+Fort Valley State	Savannah St.
+Mississippi Valley St.	Alabama St.
+Southern Miss	Alabama
+American International	Stony Brook
+Assumption	Sacred Heart
+E. Michigan	Old Dominion
+S.C. State	Coastal Carolina
+Colgate	Delaware
+La.-Monroe	LSU
+Tennessee St.	Jackson St.
+Texas-San Antonio	Oklahoma St.
+Wake Forest	Utah St.
+Brevard College	Liberty
+Prairie View A&M	McNeese St.
+W. Kentucky	M. Tenn. St.
+New Mexico Highlands	N. Arizona
+Henderson State	Nicholls St.
+Texas A&M-Commerce	S.F. Austin
+SE Missouri St.	S. Illinois
+Northwestern St.	Southern
+North Dakota	Missouri St.
+Abil Chr.	Troy
+Norfolk St.	William & Mary
+Northern Illinois	UNLV
+N. Greenville	Wofford
+Tulsa	FAU
+Furman	Presbyterian
+Kentucky	Florida
+CSU-Pueblo	Sam Houston St.
+Purdue	Notre Dame
+USC	Boston College
+Tennessee	Oklahoma
+Portland St.	Washington St.
+Texas College	Lamar
+Penn St.	Rutgers
+Navy	Texas State
+SE Louisiana	Tulane
+New Mexico St.	UTEP
+UCLA	Texas
+South Dakota St.	So. Utah
+Weber St.	Sacramento St.
+South Dakota	Montana
+Rice	Texas A&M
+Arizona St.	Colorado
+Nebraska	Fresno St.
+Nevada	Arizona
+N. Iowa	Hawaii
+Ark.-Pine Bluff	Alabama St.
+Auburn	Kansas St.
+Holy Cross	Harvard
+Connecticut	South Florida
+Maine	Boston College
+Virginia	BYU
+Miami (Ohio)	Cincinnati
+Hawaii	Colorado
+Tulane	Duke
+North Carolina	East Carolina
+Clemson	Florida St.
+Texas State	Illinois
+C. Michigan	Kansas
+Mississippi St.	LSU
+M. Tenn. St.	Memphis
+Utah	Michigan
+E. Michigan	Michigan St.
+Indiana	Missouri
+Presbyterian	N. Carolina St.
+W. Illinois	Northwestern
+Idaho	Ohio
+San Diego St.	Oregon St.
+Massachusetts	Penn St.
+S. Illinois	Purdue
+Old Dominion	Rice
+Maryland	Syracuse
+Ball St.	Toledo
+South Carolina	Vanderbilt
+Georgia Tech	Virginia Tech
+Georgia State	Washington
+Oregon	Washington St.
+Army	Wake Forest
+Bowling Green	Wisconsin
+Murray St.	W. Michigan
+California	Arizona
+Northern Illinois	Arkansas
+Florida	Alabama
+Oklahoma	West Virginia
+Marshall	Akron
+Norfolk St.	Buffalo
+Texas A&M	SMU
+UNLV	Houston
+San Jose St.	Minnesota
+Louisville	FIU
+Iowa	Pittsburgh
+Ga. Southern	South Alabama
+Menlo	Sacramento St.
+Lehigh	Yale
+Monmouth	Duquesne
+Brown	Georgetown
+Troy	Georgia
+James Madison	Villanova
+Fordham	Columbia
+Morehead St.	Davidson
+Cornell	Colgate
+Robert Morris	Dayton
+Albany	Rhode Island
+Bucknell	Sacred Heart
+Penn	Jacksonville
+Delaware St.	Temple
+Houston Baptist	Texas College
+E. Kentucky	UT Martin
+Marist	Drake
+Stetson	Birmingham-Southern
+Valparaiso	William Jewell
+E. Washington	Montana St.
+Austin Peay	E. Illinois
+Tenn. Tech	Tennessee St.
+VMI	Samford
+N. Arizona	South Dakota
+Rutgers	Navy
+Montana	N. Dakota St.
+Nicholls St.	North Texas
+West Alabama	Jacksonville St.
+New Hampshire	Richmond
+Howard	Morgan St.
+FAU	Wyoming
+Princeton	San Diego
+Incarnate Word	Abil Chr.
+Coastal Carolina	Florida A&M
+Alcorn St.	Mississippi Valley St.
+N. Colorado	N. Iowa
+The Citadel	Charleston So.
+Bethune-Cook.	UCF
+Ave Maria	Mercer
+Miles	Hampton
+Wofford	Gardner-Webb
+NC Central	Towson
+Furman	S.C. State
+Chowan	NC A&T
+Taylor	Butler
+SE Louisiana	SE Missouri St.
+Weber St.	S.F. Austin
+Bryant	Liberty
+Appalachian St.	Southern Miss
+Grambling	Jackson St.
+Southern	Prairie View A&M
+Central Conn. St.	Dartmouth
+Stony Brook	North Dakota
+Charlotte	Elon
+Missouri St.	Cent. Arkansas
+Utah St.	Arkansas St.
+Lafayette	William & Mary
+St. Francis	Youngstown St.
+Wisconsin-Oshkosh	South Dakota St.
+Northwestern St.	Louisiana Tech
+Mississippi College	Lamar
+Miami (Fla.)	Nebraska
+Alabama A&M	Texas Southern
+New Mexico	New Mexico St.
+Portland St.	Cal-Poly
+So. Utah	Fresno St.
+UL Lafayette	Boise St.
+Texas Tech	Oklahoma St.
+Appalachian St.	Ga. Southern
+UCLA	Arizona St.
+M. Tenn. St.	Old Dominion
+Fresno St.	New Mexico
+Louisiana Tech	Auburn
+TCU	SMU
+Colorado	California
+North Carolina	Clemson
+Tennessee	Georgia
+Baylor	Iowa St.
+Maryland	Indiana
+Texas	Kansas
+UTEP	Kansas St.
+Vanderbilt	Kentucky
+Wake Forest	Louisville
+New Mexico St.	LSU
+Minnesota	Michigan
+Colorado St.	Boston College
+Texas-San Antonio	FAU
+Temple	Connecticut
+Arkansas	Texas A&M
+Akron	Pittsburgh
+Tulane	Rutgers
+UNLV	San Diego St.
+Notre Dame	Syracuse
+Duke	Miami (Fla.)
+South Florida	Wisconsin
+Stanford	Washington
+W. Michigan	Virginia Tech
+Kent St.	Virginia
+Washington St.	Utah
+Oregon St.	USC
+Memphis	Ole Miss
+Florida St.	N. Carolina St.
+E. Illinois	Ohio
+Missouri	South Carolina
+Texas State	Tulsa
+C. Michigan	Toledo
+Charleston So.	Charlotte
+Jacksonville	Butler
+Northwestern	Penn St.
+Iowa	Purdue
+Army	Yale
+Wyoming	Michigan St.
+Monmouth	Lehigh
+Fordham	Holy Cross
+Georgetown	Colgate
+NC A&T	Howard
+San Diego	Marist
+Mercer	VMI
+Bowling Green	Massachusetts
+Liberty	Indiana St.
+Villanova	Penn
+Miami (Ohio)	Buffalo
+FIU	UAB
+W. Kentucky	Navy
+W. Carolina	Furman
+N. Colorado	Montana
+North Dakota	Montana St.
+Morgan St.	Norfolk St.
+Delaware	James Madison
+Nicholls St.	Cent. Arkansas
+Florida Tech	Bethune-Cook.
+Rhode Island	Central Conn. St.
+Sacramento St.	Idaho State
+South Alabama	Idaho
+Alabama A&M	Mississippi Valley St.
+Tenn. Tech	N. Iowa
+Grambling	Prairie View A&M
+Southern	Alcorn St.
+Cincinnati	Ohio St.
+Texas Southern	Alabama St.
+Harvard	Brown
+Cornell	Bucknell
+Gardner-Webb	The Citadel
+Savannah St.	Delaware St.
+Wagner	Lafayette
+Dartmouth	New Hampshire
+Davidson	Princeton
+Valparaiso	Campbell
+Columbia	Albany
+S.C. State	Hampton
+William & Mary	Stony Brook
+Boise St.	Air Force
+Virginia-Wise	Wofford
+Troy	La.-Monroe
+Jackson St.	Ark.-Pine Bluff
+SE Louisiana	Incarnate Word
+Maine	Towson
+Rice	Southern Miss
+Arkansas Tech	McNeese St.
+Jacksonville St.	Murray St.
+Cal-Poly	N. Arizona
+W. Illinois	S. Illinois
+Elon	Coastal Carolina
+Samford	Chattanooga
+SE Missouri St.	UT Martin
+Florida A&M	Tennessee St.
+Austin Peay	Illinois St.
+Sam Houston St.	Lamar
+Abil Chr.	Houston Baptist
+Weber St.	So. Utah
+Illinois	Nebraska
+E. Washington	UC-Davis
+Nevada	San Jose St.
+FAU	FIU
+UCF	Houston
+Alabama St.	Alcorn St.
+Arizona	Oregon
+Lafayette	Fordham
+Louisville	Syracuse
+San Diego St.	Fresno St.
+Utah St.	BYU
+Wake Forest	Florida St.
+Vanderbilt	Georgia
+Miami (Fla.)	Georgia Tech
+Purdue	Illinois
+North Texas	Indiana
+Texas Tech	Kansas St.
+South Carolina	Kentucky
+Ohio St.	Maryland
+Massachusetts	Miami (Ohio)
+Alabama	Ole Miss
+Texas A&M	Mississippi St.
+Virginia Tech	North Carolina
+Kent St.	Northern Illinois
+Wisconsin	Northwestern
+Marshall	Old Dominion
+UNLV	San Jose St.
+Oklahoma	TCU
+Florida	Tennessee
+Baylor	Texas
+Utah	UCLA
+Arizona St.	USC
+Pittsburgh	Virginia
+California	Washington St.
+South Alabama	Appalachian St.
+Idaho State	E. Washington
+SMU	East Carolina
+Oregon St.	Colorado
+Ohio	C. Michigan
+N. Carolina St.	Clemson
+Memphis	Cincinnati
+Buffalo	Bowling Green
+LSU	Auburn
+Kansas	West Virginia
+Iowa St.	Oklahoma St.
+Idaho	Texas State
+Southern Miss	M. Tenn. St.
+Ball St.	Army
+Harvard	Georgetown
+Yale	Cornell
+Princeton	Columbia
+Villanova	Maine
+Holy Cross	Colgate
+Dayton	Davidson
+West Liberty State	Duquesne
+Campbell	Morehead St.
+Brown	Rhode Island
+Marist	Valparaiso
+Drake	Jacksonville
+Bucknell	Bryant
+New Hampshire	Elon
+Charlotte	Gardner-Webb
+The Citadel	Wofford
+Penn	Dartmouth
+Norfolk St.	Savannah St.
+Tennessee St.	SE Missouri St.
+E. Michigan	Akron
+Howard	NC Central
+W. Carolina	Presbyterian
+Montana	North Dakota
+Tulsa	Colorado St.
+Grambling	Alabama A&M
+Monmouth	Robert Morris
+Stony Brook	Towson
+Youngstown St.	Missouri St.
+Mercer	Samford
+N. Iowa	Indiana St.
+South Dakota St.	Illinois St.
+N. Arizona	N. Colorado
+Sacred Heart	Delaware
+NC A&T	S.C. State
+New Mexico	Texas-San Antonio
+Navy	Air Force
+Stanford	Notre Dame
+N. Dakota St.	W. Illinois
+VMI	Chattanooga
+Northwestern St.	SE Louisiana
+Delaware St.	Bethune-Cook.
+UT Martin	Jacksonville St.
+Morgan St.	Florida A&M
+Butler	Stetson
+James Madison	Albany
+Alderson Broaddus	Wagner
+Ark.-Pine Bluff	Southern
+UTEP	Louisiana Tech
+Houston Baptist	Incarnate Word
+Michigan	Rutgers
+UAB	W. Kentucky
+Lamar	Abil Chr.
+South Dakota	S. Illinois
+Cent. Arkansas	S.F. Austin
+Nicholls St.	McNeese St.
+Richmond	Liberty
+Prairie View A&M	Jackson St.
+Hawaii	Rice
+Coastal Carolina	Furman
+Georgia State	UL Lafayette
+Toledo	W. Michigan
+E. Kentucky	Austin Peay
+La.-Monroe	Arkansas St.
+UC-Davis	Portland St.
+Ga. Southern	New Mexico St.
+Mississippi Valley St.	Texas Southern
+Murray St.	Tenn. Tech
+Nebraska	Michigan St.
+Montana St.	Sacramento St.
+So. Utah	Cal-Poly
+Boise St.	Nevada
+Tenn. Tech	UT Martin
+BYU	UCF
+Washington St.	Stanford
+San Diego St.	New Mexico
+Fresno St.	UNLV
+Cincinnati	Miami (Fla.)
+Tulsa	Temple
+Miami (Ohio)	Akron
+USC	Arizona
+Washington	California
+Louisville	Clemson
+Buffalo	E. Michigan
+LSU	Florida
+Duke	Georgia Tech
+Alabama	Arkansas
+Massachusetts	Kent St.
+Oklahoma St.	Kansas
+La.-Monroe	Kentucky
+Houston	Memphis
+Georgia	Missouri
+M. Tenn. St.	Marshall
+Auburn	Mississippi St.
+Boston College	N. Carolina St.
+TCU	Baylor
+Michigan St.	Purdue
+Texas	Oklahoma
+Florida St.	Syracuse
+Chattanooga	Tennessee
+Ole Miss	Texas A&M
+West Virginia	Texas Tech
+Oregon	UCLA
+Air Force	Utah St.
+Charleston So.	Vanderbilt
+Illinois	Wisconsin
+Liberty	Appalachian St.
+Connecticut	Tulane
+Northwestern	Minnesota
+East Carolina	South Florida
+Indiana	Iowa
+Rice	Army
+Robert Morris	Sacred Heart
+Butler	Campbell
+Dartmouth	Yale
+St. Francis	Wagner
+Dayton	Marist
+Holy Cross	Brown
+Bucknell	Lehigh
+Towson	James Madison
+Rhode Island	Villanova
+Penn	Fordham
+Jacksonville	Morehead St.
+Hampton	NC A&T
+Cornell	Harvard
+Columbia	Monmouth
+Duquesne	Central Conn. St.
+Princeton	Colgate
+S. Illinois	N. Dakota St.
+Missouri Baptist	Valparaiso
+Delaware St.	Norfolk St.
+NC Central	S.C. State
+Coastal Carolina	Presbyterian
+Bowling Green	Ohio
+Charlotte	The Citadel
+Southern	Alabama A&M
+Davidson	Drake
+Arkansas St.	Georgia State
+Portland St.	North Dakota
+W. Michigan	Ball St.
+Alcorn St.	Grambling
+Illinois St.	Indiana St.
+Mississippi Valley St.	Jackson St.
+Alabama St.	Prairie View A&M
+Jacksonville St.	Tennessee St.
+New Mexico St.	Troy
+Cal-Poly	Weber St.
+Ave Maria	Abil Chr.
+E. Washington	So. Utah
+North Texas	UAB
+Sacramento St.	N. Colorado
+Toledo	Iowa St.
+Wofford	W. Carolina
+Richmond	Albany
+North Carolina	Notre Dame
+William & Mary	New Hampshire
+Georgetown	Lafayette
+Elon	Delaware
+VMI	Navy
+Howard	Bethune-Cook.
+SE Missouri St.	Murray St.
+Austin Peay	Mercer
+N. Iowa	South Dakota
+McNeese St.	Sam Houston St.
+Savannah St.	Florida A&M
+C. Michigan	Northern Illinois
+Stetson	San Diego
+Idaho	Ga. Southern
+E. Illinois	E. Kentucky
+Houston Baptist	Cent. Arkansas
+SE Louisiana	Lamar
+FIU	Texas-San Antonio
+Missouri St.	South Dakota St.
+W. Illinois	Youngstown St.
+Penn St.	Michigan
+Montana St.	UC-Davis
+Incarnate Word	Northwestern St.
+S.F. Austin	Nicholls St.
+Maine	Stony Brook
+Old Dominion	UTEP
+Colorado St.	Nevada
+Wyoming	Hawaii
+UL Lafayette	Texas State
+Virginia Tech	Pittsburgh
+Utah	Oregon St.
+Fresno St.	Boise St.
+Temple	Houston
+Kansas St.	Oklahoma
+Baylor	West Virginia
+Texas A&M	Alabama
+Georgia	Arkansas
+Stanford	Arizona St.
+Clemson	Boston College
+W. Michigan	Bowling Green
+Nevada	BYU
+UCLA	California
+Tulane	UCF
+Ball St.	C. Michigan
+Virginia	Duke
+Missouri	Florida
+Notre Dame	Florida St.
+Texas-San Antonio	Louisiana Tech
+N. Carolina St.	Louisville
+Kentucky	LSU
+Tennessee	Ole Miss
+Georgia Tech	North Carolina
+Miami (Ohio)	Northern Illinois
+Akron	Ohio
+Washington	Oregon
+Furman	South Carolina
+Oklahoma St.	TCU
+South Florida	Tulsa
+Kansas	Texas Tech
+Colorado	USC
+Syracuse	Wake Forest
+San Jose St.	Wyoming
+N. Colorado	E. Washington
+Columbia	Penn
+Georgia State	South Alabama
+E. Michigan	Massachusetts
+Cincinnati	SMU
+Central Conn. St.	Robert Morris
+San Diego	Butler
+Iowa	Maryland
+Sacred Heart	Duquesne
+W. Kentucky	FAU
+Bryant	St. Francis
+Colgate	Yale
+Purdue	Minnesota
+Towson	Delaware
+Albany	Maine
+Chattanooga	The Citadel
+Florida A&M	Howard
+Brown	Princeton
+NC Central	Morgan St.
+Morehead St.	Dayton
+Lafayette	Harvard
+Norfolk St.	Hampton
+Gardner-Webb	VMI
+Stony Brook	Elon
+Holy Cross	Dartmouth
+NC A&T	Delaware St.
+Drake	Valparaiso
+E. Illinois	SE Missouri St.
+UC-Davis	Montana
+Lehigh	Cornell
+Appalachian St.	Troy
+UT Martin	Tennessee St.
+South Dakota	Missouri St.
+Texas Southern	Alcorn St.
+Presbyterian	Charleston So.
+Prairie View A&M	Mississippi Valley St.
+Ark.-Pine Bluff	Grambling
+Wofford	Samford
+Villanova	William & Mary
+Rhode Island	Richmond
+UAB	M. Tenn. St.
+Rutgers	Ohio St.
+Army	Kent St.
+Indiana St.	N. Dakota St.
+New Mexico	Air Force
+Michigan St.	Indiana
+Illinois St.	W. Illinois
+Lamar	Nicholls St.
+Sam Houston St.	Northwestern St.
+W. Carolina	Mercer
+S. Illinois	Youngstown St.
+Davidson	Campbell
+So. Utah	Idaho State
+New Mexico St.	Idaho
+South Dakota St.	N. Iowa
+Weber St.	Montana St.
+Marshall	FIU
+Jacksonville	Stetson
+Bethune-Cook.	Savannah St.
+Utah St.	Colorado St.
+Southern Miss	North Texas
+N. Arizona	Portland St.
+Murray St.	Austin Peay
+Abil Chr.	McNeese St.
+Nebraska	Northwestern
+Iowa St.	Texas
+S.F. Austin	Houston Baptist
+Cent. Arkansas	SE Louisiana
+E. Kentucky	Tenn. Tech
+Cal-Poly	Sacramento St.
+Hawaii	San Diego St.
+Arkansas St.	UL Lafayette
+Connecticut	East Carolina
+Miami (Fla.)	Virginia Tech
+South Florida	Cincinnati
+Troy	South Alabama
+BYU	Boise St.
+Oregon	California
+Mississippi St.	Kentucky
+Ole Miss	LSU
+Michigan	Michigan St.
+Vanderbilt	Missouri
+Rutgers	Nebraska
+West Virginia	Oklahoma St.
+North Texas	Rice
+Oregon St.	Stanford
+Texas	Kansas St.
+Northern Illinois	E. Michigan
+UCLA	Colorado
+Syracuse	Clemson
+Temple	UCF
+Akron	Ball St.
+UAB	Arkansas
+South Carolina	Auburn
+C. Michigan	Buffalo
+Memphis	SMU
+Georgia Tech	Pittsburgh
+Ga. Southern	Georgia State
+Ohio	W. Michigan
+Boston College	Wake Forest
+Arizona	Washington St.
+Arizona St.	Washington
+North Carolina	Virginia
+UNLV	Utah St.
+USC	Utah
+Alabama	Tennessee
+Texas Tech	TCU
+Alderson Broaddus	Duquesne
+Minnesota	Illinois
+Mercer	Chattanooga
+Campbell	Marist
+James Madison	Charlotte
+Maryland	Wisconsin
+Maine	Rhode Island
+Penn	Yale
+Cornell	Brown
+Delaware	William & Mary
+Fordham	Lehigh
+St. Francis	Sacred Heart
+Robert Morris	Bryant
+Jacksonville	Limestone College
+Wagner	Central Conn. St.
+Harvard	Princeton
+Florida A&M	NC A&T
+Valparaiso	Morehead St.
+San Jose St.	Navy
+Stetson	Davidson
+Samford	Furman
+Dartmouth	Columbia
+Bethune-Cook.	S.C. State
+VMI	Wofford
+Massachusetts	Toledo
+Hampton	Delaware St.
+Butler	Drake
+Bucknell	Georgetown
+Alcorn St.	Prairie View A&M
+The Citadel	W. Carolina
+N. Iowa	W. Illinois
+Savannah St.	NC Central
+Monmouth	Presbyterian
+Kent St.	Miami (Ohio)
+Tennessee St.	E. Illinois
+N. Dakota St.	South Dakota
+Ark.-Pine Bluff	Texas Southern
+Austin Peay	UT Martin
+SE Missouri St.	E. Kentucky
+Stony Brook	New Hampshire
+Portland St.	Weber St.
+Youngstown St.	South Dakota St.
+Richmond	Elon
+North Dakota	So. Utah
+Alabama A&M	Alabama St.
+Louisiana Tech	Southern Miss
+Morgan St.	Villanova
+Charleston So.	Coastal Carolina
+Colgate	Albany
+Idaho State	N. Colorado
+Gardner-Webb	Liberty
+Holy Cross	Lafayette
+E. Washington	N. Arizona
+Old Dominion	W. Kentucky
+Abil Chr.	Sam Houston St.
+SE Louisiana	S.F. Austin
+Kentucky Wesleyan	Murray St.
+Tenn. Tech	Jacksonville St.
+FAU	Marshall
+Texas State	La.-Monroe
+Indiana St.	S. Illinois
+UTEP	Texas-San Antonio
+Southern	Jackson St.
+Missouri St.	Illinois St.
+McNeese St.	Incarnate Word
+Wyoming	Colorado St.
+Northwestern St.	Cent. Arkansas
+Ohio St.	Penn St.
+Nicholls St.	Houston Baptist
+Dayton	San Diego
+Montana	Cal-Poly
+Nevada	Hawaii
+Troy	Ga. Southern
+Florida St.	Louisville
+Tulsa	Memphis
+Cincinnati	Tulane
+Virginia	Georgia Tech
+Northwestern	Iowa
+Oklahoma	Iowa St.
+Oklahoma St.	Kansas St.
+W. Kentucky	Louisiana Tech
+W. Michigan	Miami (Ohio)
+Kentucky	Missouri
+Auburn	Ole Miss
+Arkansas	Mississippi St.
+Purdue	Nebraska
+Stanford	Oregon
+California	Oregon St.
+Maryland	Penn St.
+Kansas	Baylor
+N. Carolina St.	Syracuse
+La.-Monroe	Texas A&M
+Texas	Texas Tech
+Arizona	UCLA
+Old Dominion	Vanderbilt
+Boston College	Virginia Tech
+USC	Washington St.
+Georgia State	Appalachian St.
+North Dakota	E. Washington
+Brown	Penn
+Elon	Towson
+North Carolina	Miami (Fla.)
+Houston	South Florida
+Wyoming	Fresno St.
+Duke	Pittsburgh
+East Carolina	Temple
+UCF	Connecticut
+C. Michigan	E. Michigan
+Washington	Colorado
+Utah	Arizona St.
+TCU	West Virginia
+Tennessee	South Carolina
+Air Force	Army
+Morehead St.	Butler
+Rhode Island	Delaware
+Lehigh	Georgetown
+Jacksonville	Marist
+Wisconsin	Rutgers
+Rice	FIU
+Central Conn. St.	Bryant
+Princeton	Cornell
+Yale	Columbia
+Villanova	Richmond
+Duquesne	St. Francis
+Lafayette	Bucknell
+Charleston So.	Monmouth
+Valparaiso	Dayton
+Missouri St.	Indiana St.
+Delaware St.	Howard
+Colgate	Fordham
+Stetson	Campbell
+Furman	VMI
+Harvard	Dartmouth
+San Diego	Drake
+Savannah St.	S.C. State
+Morgan St.	Hampton
+Chattanooga	W. Carolina
+South Dakota	Youngstown St.
+Liberty	Presbyterian
+UT Martin	Murray St.
+Sacramento St.	Montana
+E. Illinois	Tenn. Tech
+Cent. Arkansas	Abil Chr.
+N. Arizona	Weber St.
+Norfolk St.	Florida A&M
+Concordia	Samford
+E. Kentucky	Tennessee St.
+Florida	Georgia
+Sacred Heart	Wagner
+BYU	M. Tenn. St.
+William & Mary	James Madison
+Mississippi Valley St.	Ark.-Pine Bluff
+Indiana	Michigan
+Coastal Carolina	Gardner-Webb
+South Dakota St.	N. Dakota St.
+Austin Peay	Jacksonville St.
+S.F. Austin	Sam Houston St.
+NC Central	Bethune-Cook.
+The Citadel	Mercer
+Arkansas St.	Idaho
+Illinois St.	N. Iowa
+South Alabama	UL Lafayette
+New Mexico	UNLV
+Albany	New Hampshire
+Grambling	Texas Southern
+Houston Baptist	Lamar
+Alabama St.	Southern
+McNeese St.	Northwestern St.
+Alabama A&M	Jackson St.
+Colorado St.	San Jose St.
+Incarnate Word	Nicholls St.
+N. Colorado	UC-Davis
+UAB	FAU
+Idaho State	Portland St.
+Illinois	Ohio St.
+Texas State	New Mexico St.
+Notre Dame	Navy
+Southern Miss	UTEP
+Montana St.	Cal-Poly
+San Diego St.	Nevada
+Utah St.	Hawaii
+Toledo	Kent St.
+Bowling Green	Akron
+Buffalo	Ohio
+Northern Illinois	Ball St.
+Clemson	Wake Forest
+Fordham	Bucknell
+Memphis	Temple
+Utah St.	Wyoming
+Iowa St.	Kansas
+Georgia	Kentucky
+Alabama	LSU
+Presbyterian	Ole Miss
+UT Martin	Mississippi St.
+Georgia Tech	N. Carolina St.
+Michigan	Northwestern
+Washington St.	Oregon St.
+Wisconsin	Purdue
+Tulane	Houston
+Duke	Syracuse
+Kansas St.	TCU
+SMU	Tulsa
+West Virginia	Texas
+Oregon	Utah
+Florida	Vanderbilt
+UCLA	Washington
+La.-Monroe	Appalachian St.
+Penn St.	Indiana
+Virginia	Florida St.
+Hawaii	Colorado St.
+Louisville	Boston College
+Notre Dame	Arizona St.
+Colorado	Arizona
+Texas A&M	Auburn
+Baylor	Oklahoma
+Texas-San Antonio	Rice
+Iowa	Minnesota
+Ga. Southern	Texas State
+Louisiana Tech	UAB
+Bryant	Duquesne
+Wagner	Robert Morris
+Coastal Carolina	Charlotte
+Yale	Brown
+Dartmouth	Cornell
+New Hampshire	Rhode Island
+Richmond	Maine
+Lehigh	Holy Cross
+Sacred Heart	Central Conn. St.
+Gardner-Webb	Charleston So.
+Lafayette	Colgate
+Jacksonville	Davidson
+Drake	Dayton
+Murray St.	E. Illinois
+Jacksonville St.	E. Kentucky
+Columbia	Harvard
+South Dakota St.	Indiana St.
+Morgan St.	NC A&T
+Penn	Princeton
+Wofford	Chattanooga
+Weber St.	North Dakota
+Missouri Baptist	Campbell
+James Madison	Stony Brook
+Youngstown St.	Illinois St.
+Furman	The Citadel
+Alcorn St.	Alabama A&M
+Hampton	NC Central
+Butler	Valparaiso
+Bethune-Cook.	Norfolk St.
+Jackson St.	Alabama St.
+SE Missouri St.	Tenn. Tech
+Northwestern St.	Abil Chr.
+S. Illinois	Missouri St.
+Georgia State	Troy
+S.C. State	Florida A&M
+Marist	Stetson
+W. Carolina	Samford
+South Alabama	Arkansas St.
+Grambling	Mississippi Valley St.
+Montana	E. Washington
+Monmouth	Liberty
+Connecticut	Army
+FIU	Old Dominion
+Prairie View A&M	Ark.-Pine Bluff
+Delaware	Albany
+Elon	William & Mary
+UTEP	W. Kentucky
+Lamar	Cent. Arkansas
+Air Force	UNLV
+Houston Baptist	SE Louisiana
+Morehead St.	San Diego
+UC-Davis	N. Arizona
+Portland St.	Montana St.
+Cal-Poly	Idaho State
+N. Dakota St.	N. Iowa
+Tennessee St.	Austin Peay
+So. Utah	Sacramento St.
+W. Illinois	South Dakota
+Howard	Savannah St.
+Idaho	San Diego St.
+FAU	North Texas
+Marshall	Southern Miss
+Sam Houston St.	Incarnate Word
+Boise St.	New Mexico
+S.F. Austin	McNeese St.
+Texas Southern	Southern
+Towson	Villanova
+Ohio St.	Michigan St.
+UL Lafayette	New Mexico St.
+San Jose St.	Fresno St.
+Akron	Buffalo
+Toledo	Northern Illinois
+Ball St.	Massachusetts
+Kent St.	Bowling Green
+East Carolina	Cincinnati
+Bethune-Cook.	Hampton
+Southern Miss	Texas-San Antonio
+California	USC
+Tulsa	UCF
+Clemson	Georgia Tech
+Iowa	Illinois
+TCU	Kansas
+Rice	Marshall
+Pittsburgh	North Carolina
+Wake Forest	N. Carolina St.
+Texas	Oklahoma St.
+Arizona St.	Oregon St.
+Temple	Penn St.
+Utah	Stanford
+Kentucky	Tennessee
+Missouri	Texas A&M
+North Texas	UTEP
+Oklahoma	Texas Tech
+New Mexico	Utah St.
+Nebraska	Wisconsin
+E. Michigan	W. Michigan
+Idaho State	Montana St.
+Harvard	Penn
+William & Mary	Towson
+Texas State	South Alabama
+Florida St.	Miami (Fla.)
+Indiana	Rutgers
+Ohio St.	Minnesota
+South Florida	SMU
+Auburn	Georgia
+South Carolina	Florida
+Virginia Tech	Duke
+Miami (Ohio)	C. Michigan
+UNLV	BYU
+San Diego St.	Boise St.
+Washington	Arizona
+LSU	Arkansas
+Memphis	Tulane
+Mississippi St.	Alabama
+Dayton	Butler
+Wofford	Furman
+Davidson	Marist
+Duquesne	Wagner
+Army	W. Kentucky
+Princeton	Yale
+Presbyterian	Gardner-Webb
+Wesley	Charlotte
+St. Francis	Robert Morris
+Bryant	Sacred Heart
+Cornell	Columbia
+Bucknell	Holy Cross
+James Madison	Richmond
+Colgate	Lehigh
+Delaware	New Hampshire
+Rhode Island	Stony Brook
+Campbell	Jacksonville
+Howard	Central Conn. St.
+Samford	The Citadel
+N. Arizona	North Dakota
+Murray St.	E. Kentucky
+Georgetown	Fordham
+Stetson	Morehead St.
+S.C. State	Morgan St.
+Brown	Dartmouth
+Florida A&M	Delaware St.
+NC A&T	Savannah St.
+NC Central	Norfolk St.
+Prairie View A&M	Alabama A&M
+VMI	W. Carolina
+Indiana St.	Youngstown St.
+Austin Peay	SE Missouri St.
+Nevada	Air Force
+Illinois St.	South Dakota
+Chattanooga	Tenn. Tech
+W. Illinois	South Dakota St.
+N. Dakota St.	Missouri St.
+Maine	Elon
+Appalachian St.	Arkansas St.
+Alabama St.	Grambling
+Monmouth	Coastal Carolina
+N. Iowa	S. Illinois
+N. Colorado	Weber St.
+Montana	So. Utah
+M. Tenn. St.	FIU
+Northwestern	Notre Dame
+Charleston So.	Liberty
+Ga. Southern	Navy
+Abil Chr.	S.F. Austin
+Valparaiso	San Diego
+Sam Houston St.	Houston Baptist
+Warner	Mercer
+E. Illinois	Jacksonville St.
+McNeese St.	SE Louisiana
+Hawaii	San Jose St.
+Troy	Idaho
+Ark.-Pine Bluff	Alcorn St.
+Portland St.	Sacramento St.
+Jackson St.	Texas Southern
+Mississippi Valley St.	Southern
+Albany	Villanova
+UL Lafayette	La.-Monroe
+Incarnate Word	Lamar
+Nicholls St.	Northwestern St.
+Michigan St.	Maryland
+UC-Davis	Cal-Poly
+Northern Illinois	Ohio
+Massachusetts	Akron
+Bowling Green	Toledo
+Kent St.	Buffalo
+SE Louisiana	Nicholls St.
+Kansas St.	West Virginia
+North Carolina	Duke
+Arkansas St.	Texas State
+UTEP	Rice
+San Jose St.	Utah St.
+Air Force	San Diego St.
+E. Washington	Portland St.
+Kansas	Oklahoma
+W. Carolina	Alabama
+Ole Miss	Arkansas
+Samford	Auburn
+Washington St.	Arizona St.
+E. Michigan	Ball St.
+Stanford	California
+SMU	UCF
+Georgia State	Clemson
+W. Michigan	C. Michigan
+New Mexico	Colorado St.
+Tulane	East Carolina
+E. Kentucky	Florida
+Boston College	Florida St.
+Charleston So.	Georgia
+Wisconsin	Iowa
+Texas Tech	Iowa St.
+Penn St.	Illinois
+South Florida	Memphis
+Maryland	Michigan
+Rutgers	Michigan St.
+Vanderbilt	Mississippi St.
+Minnesota	Nebraska
+Fresno St.	Nevada
+Indiana	Ohio St.
+Colorado	Oregon
+Northwestern	Purdue
+South Alabama	South Carolina
+Appalachian St.	UL Lafayette
+Missouri	Tennessee
+USC	UCLA
+Arizona	Utah
+Miami (Fla.)	Virginia
+Oregon St.	Washington
+Virginia Tech	Wake Forest
+Boise St.	Wyoming
+Florida A&M	Bethune-Cook.
+Montana St.	Montana
+Central Conn. St.	St. Francis
+Syracuse	Pittsburgh
+Cincinnati	Connecticut
+Tulsa	Houston
+Oklahoma St.	Baylor
+Sacramento St.	UC-Davis
+Villanova	Delaware
+Robert Morris	Duquesne
+Holy Cross	Georgetown
+Gardner-Webb	Monmouth
+Morehead St.	Charlotte
+Fordham	Army
+Elon	James Madison
+Wagner	Bryant
+Columbia	Brown
+Yale	Harvard
+Penn	Cornell
+Towson	Rhode Island
+Campbell	Dayton
+Colgate	Bucknell
+Marshall	UAB
+Delaware St.	Morgan St.
+Louisiana Tech	Old Dominion
+Liberty	Coastal Carolina
+Drake	Stetson
+Dartmouth	Princeton
+Hampton	Howard
+UT Martin	E. Illinois
+The Citadel	VMI
+Norfolk St.	S.C. State
+Mercer	Wofford
+Indiana St.	W. Illinois
+Jacksonville St.	SE Missouri St.
+Stillman College	Alabama St.
+S. Illinois	Illinois St.
+Texas-San Antonio	W. Kentucky
+Davidson	Valparaiso
+North Dakota	N. Colorado
+NC A&T	NC Central
+Tennessee St.	Murray St.
+Savannah St.	BYU
+Jackson St.	Alcorn St.
+South Dakota	South Dakota St.
+Alabama A&M	Ark.-Pine Bluff
+New Hampshire	Maine
+Lehigh	Lafayette
+FIU	North Texas
+Stony Brook	Albany
+Chattanooga	Furman
+Louisville	Notre Dame
+Youngstown St.	N. Dakota St.
+Cent. Arkansas	Sam Houston St.
+Northwestern St.	S.F. Austin
+So. Utah	N. Arizona
+Weber St.	Idaho State
+Tenn. Tech	Austin Peay
+Missouri St.	N. Iowa
+FAU	M. Tenn. St.
+Lamar	McNeese St.
+Cal-Poly	San Diego
+Richmond	William & Mary
+La.-Monroe	New Mexico St.
+UNLV	Hawaii
+Ohio	Miami (Ohio)
+Akron	Kent St.
+LSU	Texas A&M
+TCU	Texas
+Northern Illinois	W. Michigan
+UCF	South Florida
+Nebraska	Iowa
+Virginia	Virginia Tech
+East Carolina	Tulsa
+Ball St.	Bowling Green
+Houston	SMU
+Toledo	E. Michigan
+Buffalo	Massachusetts
+Navy	South Alabama
+W. Kentucky	Marshall
+Arkansas	Missouri
+Colorado St.	Air Force
+Arizona St.	Arizona
+Stanford	UCLA
+Illinois	Northwestern
+Michigan	Ohio St.
+Oregon	Oregon St.
+Michigan St.	Penn St.
+Notre Dame	USC
+Tennessee	Vanderbilt
+Washington	Washington St.
+Minnesota	Wisconsin
+N. Carolina St.	North Carolina
+Mississippi St.	Ole Miss
+Connecticut	Memphis
+Rutgers	Maryland
+Kentucky	Louisville
+Kansas	Kansas St.
+Purdue	Indiana
+West Virginia	Iowa St.
+Georgia Tech	Georgia
+Florida	Florida St.
+Wake Forest	Duke
+Utah	Colorado
+South Carolina	Clemson
+BYU	California
+Utah St.	Boise St.
+Syracuse	Boston College
+Texas Tech	Baylor
+Auburn	Alabama
+North Texas	Texas-San Antonio
+Wyoming	New Mexico
+Cincinnati	Temple
+Nevada	UNLV
+Pittsburgh	Miami (Fla.)
+Idaho	Appalachian St.
+Old Dominion	FAU
+Rice	Louisiana Tech
+Texas State	Georgia State
+Grambling	Southern
+New Mexico St.	Arkansas St.
+UAB	Southern Miss
+San Jose St.	San Diego St.
+La.-Monroe	Ga. Southern
+M. Tenn. St.	UTEP
+Hawaii	Fresno St.
+UL Lafayette	Troy
+UCF	East Carolina
+Houston	Cincinnati
+Kansas St.	Baylor
+SMU	Connecticut
+Temple	Tulane
+Oklahoma St.	Oklahoma
+Iowa St.	TCU
+Navy	Army
